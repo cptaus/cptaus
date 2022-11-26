@@ -29,7 +29,7 @@
   
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cptau1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideNums=DD6F20&currStreakLabel=DD2727&sideLabels=DD2727&currStreakNum=DD2727" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cptaus&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideNums=DD6F20&currStreakLabel=DD2727&sideLabels=DD2727&currStreakNum=DD2727" />
     <img src="https://streak-stats.demolab.com?user=cptaus&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&sideNums=DD6F20&currStreakLabel=DD2727&sideLabels=DD2727&currStreakNum=DD2727" />
 </picture>
 </div>
