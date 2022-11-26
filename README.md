@@ -17,8 +17,8 @@
 
   <img src="https://img.shields.io/badge/HLVL-Python-green?style=for-the-badge&logo=Python&logoColor=yellow"/><br/> <!--python-->
   <img src="https://img.shields.io/badge/SCRIPT-Lua-cyan?style=for-the-badge&logo=Lua&logoColor=blue"/><br/> <!--lua-->
-  <img src="https://img.shields.io/badge/WEB-Html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp; <!--html-->
   <img src="https://img.shields.io/badge/WEB-Css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; <!--css-->
+  <img src="https://img.shields.io/badge/WEB-Html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp; <!--html-->
   <img src="https://img.shields.io/badge/WEB-Js-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp; <!--js-->
  
 </details>
