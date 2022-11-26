@@ -8,7 +8,7 @@
 <details open align="center"> 
   <summary><h2>Social links</h2>  <img src="https://cdn-icons-png.flaticon.com/512/1232/1232859.png" width="40"></summary>
 
-  <img src="[![Linkedin Badge](https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/daniel-demidovski/)"/>
+  <img src="[![Linkedin Badge](https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/daniel-demidovski/)"/>s
   
   
 </details>
