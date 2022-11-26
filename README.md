@@ -1,8 +1,8 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="350"/>
-  <h1>&nbsp;Daniel Demidovski</h1>
-  <h3>&nbsp;Full stack student</h3>
+  <h1>Daniel Demidovski</h1>
+  <h3>Full stack student</h3>
 </div>
 
 <details open align="center"> 
@@ -16,10 +16,10 @@
   <summary><h2> <img src="https://cdn-icons-png.flaticon.com/512/1230/1230137.png?w=826&t=st=1669474578~exp=1669475178~hmac=4ddfe461bba8521890670e6434d6b475a3f6f36c0dcee7a55c306110d5fcf1de" width="30"> Languages</h2></summary>
 
   <img src="https://img.shields.io/badge/HLVL-Python-green?style=for-the-badge&logo=Python&logoColor=yellow"/><br/> <!--python-->
-  <img src="https://img.shields.io/badge/SCRIPT-Lua-cyan?style=for-the-badge&logo=Lua&logoColor=blue"/> <!--lua-->
-  <img src="https://img.shields.io/badge/WEB-Html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/><br/> <!--html-->
-  <img src="https://img.shields.io/badge/WEB-Css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/><br/> <!--css-->
-  <img src="https://img.shields.io/badge/WEB-Js-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/><br/> <!--js-->
+  <img src="https://img.shields.io/badge/SCRIPT-Lua-cyan?style=for-the-badge&logo=Lua&logoColor=blue"/><br/> <!--lua-->
+  <img src="https://img.shields.io/badge/WEB-Html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp; <!--html-->
+  <img src="https://img.shields.io/badge/WEB-Css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; <!--css-->
+  <img src="https://img.shields.io/badge/WEB-Js-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp; <!--js-->
  
 </details>
 
