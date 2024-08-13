@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="350"/>
   <h1>Daniel Demidovski</h1>
-  <h3>Full stack student</h3>
+  <h3>Unreal Engine 5 And Cpp developer</h3>
 </div>
 
 <details open align="center"> 
@@ -16,9 +16,9 @@
 <details close align="center"> 
   <summary><h2>Languages</h2>  <img src="https://cdn-icons-png.flaticon.com/512/1230/1230137.png?w=826&t=st=1669474578~exp=1669475178~hmac=4ddfe461bba8521890670e6434d6b475a3f6f36c0dcee7a55c306110d5fcf1de" width="30"></summary>
 
-  <img src="https://img.shields.io/badge/C++?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp; <!--c++-->
-  <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=Python&logoColor=yellow"/><br/> <!--python-->
-  <img src="https://img.shields.io/badge/SCRIPT-Lua-cyan?style=for-the-badge&logo=Lua&logoColor=blue"/><br/> <!--lua-->
+  <img src="https://img.shields.io/badge/PROGRAMMING-Cpp-blue?style=for-the-badge&logo=cplusplus&logoSize=50"/></br> <!--c++-->
+  <img src="https://img.shields.io/badge/SCRIPT-Python-green?style=for-the-badge&logo=Python&logoColor=yellow"/>&nbsp; <!--python-->
+  <img src="https://img.shields.io/badge/SCRIPT-Lua-cyan?style=for-the-badge&logo=Lua&logoColor=blue"/></br> <!--lua-->
   <img src="https://img.shields.io/badge/WEB-Css-blue?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp; <!--css-->
   <img src="https://img.shields.io/badge/WEB-Html-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp; <!--html-->
   <img src="https://img.shields.io/badge/WEB-Js-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp; <!--js-->
